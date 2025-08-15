@@ -1,0 +1,13 @@
+tipo:Extra:100:100.0
+tipo:Gas-Olina:2:1.0E9
+tipo:Corriente:200:100.0
+tipo:Diesel:300:50.0
+surtidor:Emilio:Extra:0.0:Gas-Olina:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Marcela:Extra:0.0:Gas-Olina:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Julia:Extra:0.0:Gas-Olina:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Samuel:Extra:0.0:Gas-Olina:0.0:Corriente:0.0:Diesel:0.0
+empleado:Julia:0
+empleado:Samuel:0
+empleado:Daniel:0
+empleado:Emilio:0
+empleado:Marcela:0
